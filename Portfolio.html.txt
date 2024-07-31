@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Portfolio</title>
+    <link rel = "stylesheet" type = "text/css" href = "Portfolio.css">
+</head>
+<body>
+    <div class = "main">
+        <ul>
+            <li><a href = "#">Skills</a></li>
+            <li><a href = "#">Projects</a></li>
+            <li><a href = "#">Achievements</a></li>
+            <li><a href = "#">Talks</a></li>
+            <li><a href = "#">Contact Me</a></li>
+        </ul>
+        <div class = "logo">
+            <img src = "Photo.jpg">
+        </div>
+    </div>
+    <div class = "main1">
+        <h3>Hello,It's Me</h3>
+        <h1>Hemant Singh</h1>
+        <br>
+        <p>I'm a Web Developer,passionate about Coding and Web development,<br>
+            seeking Opportunities for Growth and Contribution,<br>identifying and evaluating problems</p>
+    <div class = "btn">
+        <img src = "facebook.png">
+        <img src = "insta.png">
+        <img src = "linkedin.png">
+        <img src = "github.png">
+    </div> 
+    <br>
+    <a href = "mailto:hemantrao7988107877@gmail.com" id= "bt1">CONTACT ME</a>
+    <a href = "Hemant singh.pdf" id= "bt2">SEE MY RESUME</a>
+    </div>
+</body>
+</html>
