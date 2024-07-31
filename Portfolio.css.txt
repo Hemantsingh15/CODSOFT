@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    max-width: 1100px;
+    margin:auto;
+}
+ul{
+    list-style-type: none;
+    float: right;
+    margin-top: 25px;
+    margin-right: -70px;
+}
+ul li{
+    display: inline-block;
+    border: 1px solid transparent;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 5px;
+}
+ul li a:hover{
+    background-color:black;
+    color:white;
+    transition: 0.6s ease;
+}
+.logo img{
+    margin-top: 150px;
+    max-width: 500px;
+    max-height: 500px;
+    float: right;
+    margin-right: -350px;
+    border-radius: 50%;
+}
+.main1{
+    float:left;
+    margin-left: 200px;
+    margin-top: 300px;
+    font-size:  larger;
+}
+.btn{
+    margin-top: 80px;
+}
+#bt1{
+    border: 1px solid transparent;
+    color: blue;
+    padding: 5px;
+    text-decoration: none;
+    background-color: blue;
+    color:white; 
+}
+#bt2{
+    border: 1px solid transparent;
+    color: blue;
+    padding: 5px;
+    text-decoration: none;
+    background-color: blue;
+    color:white;
+    margin-left: 20px; 
+}
+
